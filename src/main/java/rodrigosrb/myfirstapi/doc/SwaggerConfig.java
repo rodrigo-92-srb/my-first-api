@@ -30,9 +30,7 @@ public class SwaggerConfig {
         apiInfoBuilder.title("My First API");
         apiInfoBuilder.description("Example API using Springboot");
         apiInfoBuilder.version("1.0");
-        apiInfoBuilder.termsOfServiceUrl("Termo de uso: Open Source");
-        apiInfoBuilder.license("Produced by - rodrigosrb");
-        apiInfoBuilder.licenseUrl("https://github.com/rodrigo-92-srb");
+        apiInfoBuilder.license("Produced by - Rodrigo Silva");
         apiInfoBuilder.contact(this.contact());
 
         return apiInfoBuilder;
