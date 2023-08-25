@@ -31,7 +31,7 @@ public class SwaggerConfig {
         apiInfoBuilder.description("Example API using Springboot");
         apiInfoBuilder.version("1.0");
         apiInfoBuilder.termsOfServiceUrl("Termo de uso: Open Source");
-        apiInfoBuilder.license("Licença - rodrigosrb");
+        apiInfoBuilder.license("Produced by - rodrigosrb");
         apiInfoBuilder.licenseUrl("https://github.com/rodrigo-92-srb");
         apiInfoBuilder.contact(this.contact());
 
